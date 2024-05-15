@@ -1,6 +1,6 @@
 
 document.addEventListener('DOMContentLoaded', function() {
-    const texts = ["Hello, I am Drix & Jureen!", "We are Creating a web app", "And a we love each other"];
+    const texts = ["Hello, We are Drix and Jureen!", "We are Creating a web app", "And a we love each other, Of course"];
     const typewriterText = document.querySelector('.typewriter-text');
     let textIndex = 0;
     let charIndex = 0;
