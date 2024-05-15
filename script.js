@@ -1,6 +1,6 @@
 
 document.addEventListener('DOMContentLoaded', function() {
-    const texts = ["Hello, this is a typing and deleting animation!", "Here's another sentence to display.", "And a third one for variety!"];
+    const texts = ["Hello, I am Drix & Jureen!", "We are Creating a web app", "And a we love each other"];
     const typewriterText = document.querySelector('.typewriter-text');
     let textIndex = 0;
     let charIndex = 0;
